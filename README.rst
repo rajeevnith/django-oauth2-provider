@@ -5,8 +5,9 @@ django-oauth2-provider
 
 *django-oauth2-provider* is a Django application that provides
 customizable OAuth2\-authentication for your Django projects.
-The current pip version does not work with Django 1.9.7. So I
-created this fork which is compatible with Django 1.9.7.
+The current version does not work with Django 1.9.7. So I
+created this fork which is compatible with latest available version
+of Django i.e1.9.7.
 
 Add following line in your 
 requirements.txt to use this package
